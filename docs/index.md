@@ -26,7 +26,7 @@ Source Code: [github.com/ACCESS-Community-Hub/PyEarthTools](https://github.com/A
 Documentation: [pyearthtools.readthedocs.io](https://pyearthtools.readthedocs.io)
 Tutorial Gallery: [available here](./notebooks/Gallery)
 
-**If you use `PyEarthTools` for your work or a publication, [please city our work](https://pyearthtools.readthedocs.io/en/latest/#acknowleging-or-citing-pyearthtools).**
+**If you use `PyEarthTools` for your work or a publication, [please cite our work](https://pyearthtools.readthedocs.io/en/latest/#acknowleging-or-citing-pyearthtools).**
 
 ## Installation
 

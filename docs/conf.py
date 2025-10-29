@@ -10,7 +10,7 @@ import importlib.metadata
 project = "PyEarthTools"
 copyright = "Licensed under Apache 2.0 - https://www.apache.org/licenses/LICENSE-2.0"
 
-release = importlib.metadata.version("pyearthtools")
+release = "0.5.0"
 
 # keep only major and minor version parts following default substitution documentation
 # see https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#substitutions
